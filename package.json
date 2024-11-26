@@ -1,0 +1,17 @@
+{
+  "name": "endpoint-test",
+  "version": "1.0.0",
+  "description": "Directory tree simulator for Endpoint",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx ts-node src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Junco",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
